@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import mdItCustomAttrs  from 'markdown-it-custom-attrs'
+import {fancyboxPlugin} from './theme/plugins/fancyboxPlugin';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -26,13 +26,23 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
     ],
+    lastUpdated: {
+      text: "上次更新时间",
+    },
   },
   markdown: {
+    image: {
+      // 默认禁用图片懒加载
+      lazyLoading: true,
+    },
     config: (md) => {
       // use more markdown-it plugins!
-      md.use(mdItCustomAttrs, 'image', {
-        'data-fancybox': 'gallery',
-      })
+      // md.use(mdItCustomAttrs, 'image', {
+      //   'data-fancybox': 'gallery',
+      // })
+      md.use(fancyboxPlugin);     
+
     },
-  }
+  },
+  lastUpdated: true,
 })
