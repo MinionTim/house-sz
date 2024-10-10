@@ -1,16 +1,3 @@
 # 积分
 
-
-https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1725262280-q91aqa.webp
-
-1
-https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1725262280-q91aqa.webp
-
-
-
-
-
-
-
-
-[![1725263071-U8bMKQ](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1725264067-ZQDWpz.webp?x-oss-process=image/resize,w_1000,m_lfit)](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1725264067-ZQDWpz.webp)
+入学积分数据均来自网上各渠道，各区积分入学政策不一样，相应的积分值及含义也不同，需要结合积分政策一起看。

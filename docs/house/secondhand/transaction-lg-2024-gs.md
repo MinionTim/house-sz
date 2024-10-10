@@ -1,5 +1,10 @@
 # 二手房交易数据 龙岗区2024年-广深版
 
+## 8月
+
+![lg-8-1-gs](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1728314411-TjnXYb.webp)
+![lg-8-2-gs](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1728314447-8upBHb.webp)
+
 ## 7月
 
 ![7-1](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1725117299-HddLek.webp)

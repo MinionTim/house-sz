@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "深房助手"
+  text: ""
+  tagline: 值得一试
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 二手房交易数据
+      link: /house/secondhand/transaction-index
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 学区
+      link: /school/xuequ-all
 
 features:
   - title: Feature A
