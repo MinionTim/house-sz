@@ -66,6 +66,7 @@ export default defineConfig({
                   { text: "2023年", link: "/house/secondhand/transaction-lg-2023" },
                   { text: "2024年（唐老师傅版）", link: "/house/secondhand/transaction-lg-2024-tang" },
                   { text: "2024年（广深版）", link: "/house/secondhand/transaction-lg-2024-gs" },
+                  { text: "2025年（宏盛楼记）", link: "/house/secondhand/transaction-lg-2025-hs" },
                 ]
               },
               { text: "龙华区" },
@@ -73,6 +74,7 @@ export default defineConfig({
                 items: [
                   { text: "2023年", link: "/house/secondhand/transaction-lh-2023" },
                   { text: "2024年", link: "/house/secondhand/transaction-lh-2024" },
+                  { text: "2025年", link: "/house/secondhand/transaction-lh-2025" },
                 ]
               },
             ],

@@ -1,5 +1,32 @@
 # 二手房交易数据 龙华区2024年-唐老师傅版
 
+## 12月 - 下
+
+![image-20250625232339760](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750865019-TN1U9b.png)
+
+## 12月 - 上
+
+![image-20250625232207718](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864927-tQTT3d.png)
+
+## 11月 - 下
+
+![image-20250625232033257](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864833-QAAzQo.png)
+
+## 11月 - 上
+
+![image-20250625231916139](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864756-xJJPVo.png)
+
+## 10月 - 下
+![image-20250625231306499](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864386-CkPgxn.png)
+
+## 10月 - 上
+
+![image-20250625231616249](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864576-mHh3xX.png)
+
+## 9月 - 下
+
+![image-20250625231812182](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864692-eLP9Y4.png)
+
 ## 9月 - 上
 
 ![lh-9-1-1](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1728313738-hNZ0QN.webp)

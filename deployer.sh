@@ -3,6 +3,7 @@ myselfpath=$(cd `dirname $0`; pwd)
 echo execute deployer file path: $myselfpath
 
 cd $myselfpath
+npm run docs:build
 
 # -u 远程文件有更新，则不覆盖
 rsync -avzu \

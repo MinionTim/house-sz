@@ -1,4 +1,40 @@
 # 二手房交易数据 龙岗区2024年-唐老师傅版
+## 12月 - 下
+
+![image-20250625232402289](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750865042-C4HlB3.png)
+![image-20250625232415159](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750865055-5BlVU2.png)
+
+## 12月 - 上
+
+![image-20250625232235409](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864955-pFp7uz.png)
+![image-20250625232252889](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864972-cqUmKZ.png)
+
+## 11月 - 下
+
+![image-20250625232047388](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864847-HaJsTd.png)
+![image-20250625232055674](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864855-JOS4bZ.png)
+
+## 11月 - 上
+
+![image-20250625231931184](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864771-rIVLrQ.png)
+![image-20250625231948384](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864788-P6g9En.png)
+
+## 10月 - 下
+
+![image-20250625231005888](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864206-YxdW2A.png)
+![image-20250625231035533](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864235-ucc2QP.png)
+![image-20250625231114026](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864274-DL3mgR.png)
+
+## 10月 - 上
+
+![image-20250625230700077](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864020-DdAUrI.png)
+![image-20250625230728058](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750864048-zPMepZ.png)
+
+## 9月 - 下
+
+![image-20250625230112085](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750863672-t2gKIJ.png)
+![image-20250625230140239](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2025/1750863700-7LQ15Z.png)
+
 ## 9月 - 上
 
 ![lg-9-1-1](https://0071.oss-cn-shenzhen.aliyuncs.com/uPic/2024/1728314021-JbFZgn.webp)
